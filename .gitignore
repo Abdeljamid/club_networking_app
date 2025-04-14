@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Dossier de build
+/dist/
+/build/
+*.tgz
+
+# Fichiers de configuration IDE
+/.idea/
+/.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Angular
+# Fichiers générés par Angular
+/src/**/*.js
+/src/**/*.map
+
+# Environment files
+.env
+
+# Misc
+*.log
