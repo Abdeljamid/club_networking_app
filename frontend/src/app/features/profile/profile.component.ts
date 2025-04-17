@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   standalone: true,
   template: `
     <h2>Mon profil</h2>
-    <p>Détails du profil utilisateur à venir...</p>
+    <p>Détails du profil utilisateur à venir binetooot...</p>
   `,
 })
 export class ProfileComponent {}
