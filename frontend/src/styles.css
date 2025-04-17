@@ -1,4 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+:root {
+  --kiwi-green: #76b947;
+  --kiwi-green-dark: #4b8f29;
+  --kiwi-green-light: #a8e06c;
+  --kiwi-bg: #f5f5f5;
+  --kiwi-text: #333;
+}
 
-html, body { height: 100%; }
-body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  background-color: var(--kiwi-bg);
+  color: var(--kiwi-text);
+}
