@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { HttpClientModule } from '@angular/common/http';
-import { MemberService } from '../services/member.service';
+import { MemberService } from '../../core/services/member.service';
 
 @Component({
   selector: 'app-members',
